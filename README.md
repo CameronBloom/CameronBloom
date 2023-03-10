@@ -7,6 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=CameronBloom&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
 - 🔭 I’m currently working on [sdfadsfa](asdfasdfads)
 
 - 🌱 I’m currently learning **asdfasdfadsf**
