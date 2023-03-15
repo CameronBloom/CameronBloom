@@ -29,7 +29,7 @@
 </p>
 <!-- Language and Tools Section -->
 <h3 align="left">Languages and Tools:</h3>
-<p align="left" display="flex"> 
+<!-- <p align="left" display="flex">  -->
 
   <div display="flex">
 
@@ -57,4 +57,4 @@
 
   </div>
 
-</p>
+<!-- </p> -->
