@@ -2,25 +2,25 @@
 <h3 align="center">A passionate full stack developer.</h3>
 
 <!-- Quickfire Section -->
-- 🔭 I’m currently working on [sdfadsfa](asdfasdfads)
+- 🔭 I’m currently working on the [BloomTech Full Stack Developer Program](https://www.bloomtech.com/courses/full-stack-web-development)
 
-- 🌱 I’m currently learning **asdfasdfadsf**
+- 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [adsfasdfadf](asdfasdfad)
+<!-- - 👯 I’m looking to collaborate on [...](...) -->
 
-- 🤝 I’m looking for help with [asdfasdfadsf](adsfadsfadsf)
+<!-- - 🤝 I’m looking for help with [...](...) -->
 
-- 👨‍💻 All of my projects are available at [asdfasdfadf](asdfasdfadf)
+<!-- - 👨‍💻 All of my projects are available at [...](...) -->
 
-- 📝 I regularly write articles on [adfadfa](adfadfa)
+<!-- - 📝 I regularly write articles on [...](...) -->
 
-- 💬 Ask me about **adsfasdfadsf**
+<!-- - 💬 Ask me about **...** -->
 
-- 📫 How to reach me **asdfasdfadsf**
+<!-- - 📫 How to reach me **...** -->
 
-- 📄 Know about my experiences [asdfadsf](asdfadsf)
+<!-- - 📄 Know about my experiences [...](...) -->
 
-- ⚡ Fun fact **adsfasdfadsf**
+<!-- - ⚡ Fun fact **...** -->
 
 <!-- Connect Section -->
 <h3 align="left">Connect with me:</h3>
