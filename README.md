@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cameron</h1>
 <h3 align="center">A passionate full stack developer.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adsfadsfasdf" alt="adsfadsfasdf" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 <!-- Quickfire Section -->
 - 🔭 I’m currently working on [sdfadsfa](asdfasdfads)
 
